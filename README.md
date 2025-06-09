@@ -42,6 +42,7 @@ graph TD
   Src --> Vis[visualization/visualize.py]
 
 ```
+---
 
 ## 🧾 Entrega Nº 1 – Descripción y Formulación del Objetivo
 
