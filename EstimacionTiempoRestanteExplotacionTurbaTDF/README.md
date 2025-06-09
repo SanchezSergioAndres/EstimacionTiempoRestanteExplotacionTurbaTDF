@@ -42,10 +42,11 @@ graph TD
   Src --> Vis[visualization/visualize.py]
 
 ```
+---
 
 ## 🧾 Entrega Nº 1 – Descripción y Formulación del Objetivo
 
-### 🌍 Contexto del problema
+### Contexto del problema
 
 La extracción de turba en la provincia de Tierra del Fuego representa una actividad productiva clave, especialmente en zonas rurales. La turba es un recurso natural no renovable en escalas humanas de tiempo y su extracción está condicionada por factores climáticos, estacionales y económicos.
 
@@ -115,9 +116,9 @@ Este proyecto aporta una solución tecnológica concreta a un problema ambiental
 
 ---
 
-## 📦 Entrega Nº 2 – Descripción del Dataset y Origen
+## 🧾 Entrega Nº 2 – Descripción del Dataset y Origen
 
-### 🧮 Descripción del Dataset
+### Descripción del Dataset
 
 - **Periodo cubierto**: enero 2020 – diciembre 2024
 - **Tipo de turba**: Turba embolsada – *Musgus Sphagnum*  
