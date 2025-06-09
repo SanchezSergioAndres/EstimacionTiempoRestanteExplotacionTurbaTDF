@@ -1,5 +1,5 @@
 
-# 🧠 Estimación del tiempo restante de explotación de yacimientos de turba en Tierra del Fuego mediante Aprendizaje Automático
+# Estimación del tiempo restante de explotación de yacimientos de turba en Tierra del Fuego mediante Aprendizaje Automático
 
 **📚 Cátedra**: Aprendizaje Automático – 1C 2025  
 **👨‍🏫 Docente**: Martín Mirabete  
@@ -41,7 +41,7 @@ graph TD
   Src --> ModsPred[models/predict_model.py]
   Src --> Vis[visualization/visualize.py]
 
----
+```
 
 ## 🧾 Entrega Nº 1 – Descripción y Formulación del Objetivo
 
