@@ -45,6 +45,7 @@ graph TD
 ---
 
 ## 🧾 Entrega Nº 1 – Descripción y Formulación del Objetivo
+[Ver PDF de la Entrega 1](docs/Entrega%201%20-%20Descripci%C3%B3n%20y%20Formulaci%C3%B3n%20del%20Objetivo.pdf)
 
 ### Contexto del problema
 
@@ -117,6 +118,7 @@ Este proyecto aporta una solución tecnológica concreta a un problema ambiental
 ---
 
 ## 🧾 Entrega Nº 2 – Descripción del Dataset y Origen
+[Ver PDF de la Entrega 1](docs/Entrega%202%20-%20Descripci%C3%B3n%20del%20Dataset%20y%20Origen.pdf)
 
 ### Descripción del Dataset
 
