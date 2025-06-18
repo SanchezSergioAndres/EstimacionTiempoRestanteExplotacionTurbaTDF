@@ -187,7 +187,7 @@ También estarían faltando los Id de cada uno de los yacimientos para así mant
 ## 🧾 Entrega Nº 3 – Presentación del Modelo y Análisis de Resultados
 
 
-[Ver PDF de la Entrega 3](docs/Entrega%203%20-%20Presentaci%C3%B3n%20del%20Modelo%20y%20An.pdf)
+[Ver PDF de la Entrega 3](docs/Entrega 3 - Presentación del Modelo y Análisis de Resultados.pdf)
 
 ### Presentación de Objetivo del Proyecto
 
