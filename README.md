@@ -1,3 +1,4 @@
+<img src="images/ExtraccionTurba.jpg">
 
 # Estimación del tiempo restante de explotación de yacimientos de turba en Tierra del Fuego mediante Aprendizaje Automático
 
