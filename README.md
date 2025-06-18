@@ -9,7 +9,7 @@
 
 **VIDEO** de 7 minutos:
 
-[Ver Video en GitHub - MP4 - Baja Calidad por limitación de peso de Github](video/PresentaciónTrabajo.pdf) 
+[Ver Video en GitHub - MP4 - Baja Calidad por limitación de peso de Github](video/Presentaci%C3%B3nTrabajo.mp4) 
 
 [Ver Video en GitHub - MP4 - Alta Calidad en Drive](https://drive.google.com/file/d/1CbLYG5_sHMEyHkboVeIXzjxlJXvoNnMZ/view?usp=sharing)
 
