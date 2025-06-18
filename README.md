@@ -118,7 +118,7 @@ Este proyecto aporta una solución tecnológica concreta a un problema ambiental
 ---
 
 ## 🧾 Entrega Nº 2 – Descripción del Dataset y Origen
-[Ver PDF de la Entrega 1](docs/Entrega%202%20-%20Descripci%C3%B3n%20del%20Dataset%20y%20Origen.pdf)
+[Ver PDF de la Entrega 2](docs/Entrega%202%20-%20Descripci%C3%B3n%20del%20Dataset%20y%20Origen.pdf)
 
 ### Descripción del Dataset
 
@@ -194,3 +194,13 @@ Fecha de disponibilidad del Dataset: Viernes 16 de mayo de 2025.
 
 Recopilación y Preprocesamiento: Por el momento se realizó un análisis superficial de los datos y se encontró que hay datos faltantes en relación al tamaño total de cada yacimiento, por lo que se solicito al área que proveyó el Dataset proporcionar esa información faltante y se esta esperando que ese nuevo Dataset con la información solicitada pueda ser entregado para poder continuar con el análisis.
 También estarían faltando los Id de cada uno de los yacimientos para así mantener anonimizado el Dataset. Este Id es el que una vez finalizado el análisis y el Modelo de Aprendizaje Automático, el mismo se pueda ceder al Minisiterio de Producción y Ambiente y puedan unir los datos a través de ese Id y así poder utilizar el Modelo de acá en más para diferentes análisis, así como poder ir ajustando el modelo si así se lo requiriese.
+
+---
+
+## 🧾 Entrega Nº 3 – Presentación del Modelo y Análisis de Resultados
+
+
+[Ver PDF de la Entrega 3](docs/Entrega%203%20-%20Presentaci%C3%B3n%20del%20Modelo%20y%20An.pdf)
+
+### Presentación de Objetivo del Proyecto
+
