@@ -31,6 +31,15 @@ graph TD
 ```
 ---
 
+## 🧾 Abstract
+[Ver PDF Abstract](docs/Abstract.pdf)
+
+This study presents the development of a machine learning regression model aimed at estimating the remaining exploitation time of peat bogs in Tierra del Fuego. The dataset, which was provided by the Ministry of Production and Environment, includes records from 2020 to 2024 and contains variables such as extracted volume, commercialization data, and royalty payments. First, data preprocessing was necessary because key identifiers and total peat reserves were missing. A variety of regression models was tested, and Random Forest gave the most accurate results. The final model reached 96% accuracy, which could help public and private actors make better decisions. However, this performance might be limited because the model was trained on only five years of data. Although more historical data should be included, the current results are promising. The model’s predictions can be used for planning, oversight, and sustainability. Then, once site identifiers are restored, predictions may be linked back to actual peat bogs for practical use. This work demonstrates that real government data can support effective and responsible environmental management.
+
+Este estudio presenta el desarrollo de un modelo de regresión basado en aprendizaje automático, destinado a estimar el tiempo restante de explotación de los yacimientos de turba en Tierra del Fuego. El conjunto de datos, que fue proporcionado por el Ministerio de Producción y Ambiente, incluye registros desde 2020 hasta 2024 y contiene variables como el volumen extraído, los datos de comercialización y el pago de regalías. Primero, fue necesario realizar un preprocesamiento de datos porque faltaban identificadores clave y la estimación total de reservas de turba. Se probaron diversos modelos de regresión, y Random Forest fue el que ofreció los resultados más precisos. El modelo final alcanzó una precisión del 96%, lo cual podría ayudar a actores públicos y privados a tomar mejores decisiones. Sin embargo, este rendimiento podría estar limitado porque el modelo fue entrenado con solo cinco años de datos. Aunque deberían incluirse más datos históricos, los resultados actuales son prometedores. Las predicciones del modelo pueden utilizarse para la planificación, el control y la sostenibilidad. Luego, una vez que se restauren los identificadores de sitio, las predicciones podrían vincularse a los yacimientos reales para su uso práctico. Este trabajo demuestra que los datos reales del gobierno pueden respaldar una gestión ambiental eficaz y responsable.
+
+---
+
 ## 🧾 Entrega Nº 1 – Descripción y Formulación del Objetivo
 [Ver PDF de la Entrega 1](docs/Entrega%201%20-%20Descripci%C3%B3n%20y%20Formulaci%C3%B3n%20del%20Objetivo.pdf)
 
@@ -364,14 +373,3 @@ Sin embargo, es importante remarcar que el dataset cuenta con solo cinco años d
 A pesar de la mejora en algunos indicadores puntuales, la transformación logarítmica no aportó beneficios generalizados al rendimiento del modelo. El modelo original de Random Forest, sin transformación, es el más robusto y balanceado para estimar la vida útil restante de los yacimientos de turba. No obstante, debe considerarse que la brevedad del histórico disponible condiciona la precisión de las estimaciones, especialmente en horizontes temporales largos.
 
 ---
-
-## 🧾 Abstract
-
-
-[Ver PDF de la Entrega 3](docs/Abstract.pdf)
-
-### Abstract
-
-This study presents the development of a machine learning regression model aimed at estimating the remaining exploitation time of peat bogs in Tierra del Fuego. The dataset, which was provided by the Ministry of Production and Environment, includes records from 2020 to 2024 and contains variables such as extracted volume, commercialization data, and royalty payments. First, data preprocessing was necessary because key identifiers and total peat reserves were missing. A variety of regression models was tested, and Random Forest gave the most accurate results. The final model reached 96% accuracy, which could help public and private actors make better decisions. However, this performance might be limited because the model was trained on only five years of data. Although more historical data should be included, the current results are promising. The model’s predictions can be used for planning, oversight, and sustainability. Then, once site identifiers are restored, predictions may be linked back to actual peat bogs for practical use. This work demonstrates that real government data can support effective and responsible environmental management.
-
-Este estudio presenta el desarrollo de un modelo de regresión basado en aprendizaje automático, destinado a estimar el tiempo restante de explotación de los yacimientos de turba en Tierra del Fuego. El conjunto de datos, que fue proporcionado por el Ministerio de Producción y Ambiente, incluye registros desde 2020 hasta 2024 y contiene variables como el volumen extraído, los datos de comercialización y el pago de regalías. Primero, fue necesario realizar un preprocesamiento de datos porque faltaban identificadores clave y la estimación total de reservas de turba. Se probaron diversos modelos de regresión, y Random Forest fue el que ofreció los resultados más precisos. El modelo final alcanzó una precisión del 96%, lo cual podría ayudar a actores públicos y privados a tomar mejores decisiones. Sin embargo, este rendimiento podría estar limitado porque el modelo fue entrenado con solo cinco años de datos. Aunque deberían incluirse más datos históricos, los resultados actuales son prometedores. Las predicciones del modelo pueden utilizarse para la planificación, el control y la sostenibilidad. Luego, una vez que se restauren los identificadores de sitio, las predicciones podrían vincularse a los yacimientos reales para su uso práctico. Este trabajo demuestra que los datos reales del gobierno pueden respaldar una gestión ambiental eficaz y responsable.
