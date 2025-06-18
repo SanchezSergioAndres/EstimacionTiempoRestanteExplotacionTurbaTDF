@@ -7,9 +7,13 @@
 **🏫 Establecimiento Educativo**: Centro Politécnico Superior MALVINAS ARGENTINAS  
 **💼 Carrera**: Ciencias de Datos e Inteligencia Artificial
 
-**VIDEO** de 7 minutos: [Ver Video en GitHub - MP4 - Baja Calidad por limitación de peso de Github](video/PresentaciónTrabajo.pdf) 
-                        [Ver Video en GitHub - MP4 - Alta Calidad en Drive](https://drive.google.com/file/d/1CbLYG5_sHMEyHkboVeIXzjxlJXvoNnMZ/view?usp=sharing)
-                        [Ver Video en GitHub - MKV - Alta Calidad en Drive](https://drive.google.com/file/d/15-gFdl2sc2bQAL7JENJruKSkx8LE8gR1/view?usp=sharing)
+**VIDEO** de 7 minutos:
+
+[Ver Video en GitHub - MP4 - Baja Calidad por limitación de peso de Github](video/PresentaciónTrabajo.pdf) 
+
+[Ver Video en GitHub - MP4 - Alta Calidad en Drive](https://drive.google.com/file/d/1CbLYG5_sHMEyHkboVeIXzjxlJXvoNnMZ/view?usp=sharing)
+
+[Ver Video en GitHub - MKV - Alta Calidad en Drive](https://drive.google.com/file/d/15-gFdl2sc2bQAL7JENJruKSkx8LE8gR1/view?usp=sharing)
 
 ---
 
